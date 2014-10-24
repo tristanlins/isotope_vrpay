@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+    <file datatype="php" original="system/modules/core/languages/en/default.php" source-language="en">
+        <body>
+            <trans-unit id="tl_iso_payment.vrpay_note_to_payee_legend">
+                <source>Note to payee</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_payment_information">
+                <source>Additional payment information</source>
+            </trans-unit>
+
+            <trans-unit id="tl_iso_payment.vrpay_partnerno.0">
+                <source>Partner number</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_partnerno.1">
+                <source>Please enter the partner number.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_user.0">
+                <source>Username</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_user.1">
+                <source>Please enter the account username.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_password.0">
+                <source>Password</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_password.1">
+                <source>Please enter the account password.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_brands.0">
+                <source>Brands</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_brands.1">
+                <source>Please choose the available brands.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_brands.VISA">
+                <source>VISA</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_brands.ECMC">
+                <source>ECMC</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_brands.DINERS">
+                <source>DINERS</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_brands.AMEX">
+                <source>AMEX</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_brands.JCB">
+                <source>JCB</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_brands.GIROPAY">
+                <source>GIROPAY</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_brands.SEPADD">
+                <source>SEPADD</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_page_layout.0">
+                <source>Page layout</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_page_layout.1">
+                <source>Please choose the page layout.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_page_layout.A1">
+                <source>A1 (only if you know what you do!)</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_page_layout.B1">
+                <source>B1 (implicit default)</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_page_receipt.0">
+                <source>Show receipt page</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_page_receipt.1">
+                <source>Please check if the receipt page should be shown.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_shop_urlterms.0">
+                <source>Terms and conditions page</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_shop_urlterms.1">
+                <source>Please choose the page with the terms and conditions.</source>
+            </trans-unit>
+
+            <trans-unit id="tl_iso_payment.vrpay_adddata1.0">
+                <source>Line 1</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_adddata1.1">
+                <source>Please enter line 1.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_adddata2.0">
+                <source>Line 2</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_adddata2.1">
+                <source>Please enter line 2.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_adddata3.0">
+                <source>Line 3</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_adddata3.1">
+                <source>Please enter line 3.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_adddata4.0">
+                <source>Line 4</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_adddata4.1">
+                <source>Please enter line 4.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_adddata5.0">
+                <source>Line 5</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_adddata5.1">
+                <source>Please enter line 5.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_infotext.0">
+                <source>Checkout information text</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_infotext.1">
+                <source>Please enter an information text that will be shown in the checkout.</source>
+            </trans-unit>
+
+            <trans-unit id="tl_iso_payment.vrpay_addinfo1.0">
+                <source>Line 1</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_addinfo1.1">
+                <source>Please enter line 1.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_addinfo2.0">
+                <source>Line 2</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_addinfo2.1">
+                <source>Please enter line 2.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_addinfo3.0">
+                <source>Line 3</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_addinfo3.1">
+                <source>Please enter line 3.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_addinfo4.0">
+                <source>Line 4</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_addinfo4.1">
+                <source>Please enter line 4.</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_addinfo5.0">
+                <source>Line 5</source>
+            </trans-unit>
+            <trans-unit id="tl_iso_payment.vrpay_addinfo5.1">
+                <source>Please enter line 5.</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

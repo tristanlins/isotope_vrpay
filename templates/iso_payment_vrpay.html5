@@ -1,0 +1,19 @@
+<h2><?php echo $GLOBALS['TL_LANG']['MSC']['pay_with_redirect'][0]; ?></h2>
+<p class="message"><?php echo $GLOBALS['TL_LANG']['MSC']['pay_with_redirect'][1]; ?></p>
+
+<form id="vrpay<?php echo $this->id; ?>" action="<?php echo \Environment::get('request'); ?>" method="post"
+      onsubmit="document.getElementById('ctrl_vrpay<?php echo $this->id; ?>').disabled = true;">
+    <input type="hidden" name="REQUEST_TOKEN" value="<?php echo REQUEST_TOKEN; ?>">
+    <input type="hidden" name="vrpay" value="pay">
+    <?php if ($this->error): ?>
+        <p class="error"><?= $this->error ?></p>
+    <?php endif; ?>
+    <input type="submit" id="ctrl_vrpay<?php echo $this->id; ?>"
+           value="<?php echo specialchars($GLOBALS['TL_LANG']['MSC']['pay_with_redirect'][2]); ?>">
+</form>
+<script>
+    window.addEventListener('load', function() {
+        document.getElementById('vrpay<?php echo $this->id; ?>').submit();
+        document.getElementById('ctrl_vrpay<?php echo $this->id; ?>').disabled = true;
+    })
+</script>
